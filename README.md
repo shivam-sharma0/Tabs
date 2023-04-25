@@ -1,3 +1,3 @@
 #### IN ACTION
 
-[Link](https://tabs-templete.netlify.app/)
+[Click here to see](https://tabs-templete.netlify.app/)
